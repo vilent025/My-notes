@@ -1,0 +1,39 @@
+#函数多个返回值
+def test_1():
+    return 1, "hello", True  #类型不受限制
+
+x, y, z = test_1()
+print(x, y, z)
+
+
+#多种传参方式
+def test_2(name, age, height):
+    return name, age, height
+x, y, z = test_2("li", 18, 177)
+
+def test_3(name, age, height):
+    return name, age, height
+x, y, z = test_3(name="li", age=18, height=177)
+
+def test_4(name, age, height = 177): #height有默认值
+    return name, age, height
+x, y, z = test_4("li", 18)  #身高是177
+x, y, z = test_4("li", 18, 199)  #身高是199
+
+#不定长参数
+def test_5(*args):
+    print(args)  #这个args是元组类型
+test_5("li")
+test_5("li", 18)
+def test_6(**kwargs):
+    print(kwargs)  #kwargs是字典
+test_6(name="li", age=18, height=177)
+
+
+#函数也可以作为参数传递
+def test_7(compute):
+    result = compute(1, 2)
+    print(result)
+
+def compute(x, y):
+    return x + y

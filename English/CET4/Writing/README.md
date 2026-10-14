@@ -36,11 +36,11 @@
 
 ### ③ 问题解决类
 
-开头：Recently, … has aroused wide concern. It brings some negative impacts.
+开头：Recently, … has aroused wide concern. It brings some negative impacts (on ~~). Therefore, ~~.
 
-主体：Several measures can be taken to solve the problem. First of all… Besides…
+主体：Several measures can be taken (by ~~) to solve the problem. First of all… Besides…
 
-结尾：It is high time that we took action.
+结尾：It is high time that we took action.(标语).
 
 
 

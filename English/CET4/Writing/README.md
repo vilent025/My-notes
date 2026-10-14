@@ -21,19 +21,25 @@
 ### ① 现象类（最常考）
 
 开头：Nowadays, … has become a common phenomenon. Different people hold different views on it.
+
 主体：For one thing… For another…
+
 结尾：From my perspective, we should… Only in this way can we…
 
 ### ② 观点选择类
 
 开头：When it comes to …, opinions vary from person to person. Some believe… while others argue…
+
 主体：Those who support … claim that… However, others maintain that…
+
 结尾：As far as I am concerned, I prefer…
 
 ### ③ 问题解决类
 
 开头：Recently, … has aroused wide concern. It brings some negative impacts.
+
 主体：Several measures can be taken to solve the problem. First of all… Besides…
+
 结尾：It is high time that we took action.
 
 

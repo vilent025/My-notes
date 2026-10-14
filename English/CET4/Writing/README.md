@@ -38,9 +38,9 @@
 
 开头：Recently, … has aroused wide concern. It brings some negative impacts (on ~~). Therefore, ~~.
 
-主体：Several measures can be taken (by ~~) to solve the problem. First of all… Besides…
+主体：Several measures can be taken (by ~~) to (目的). First of all… Besides…
 
-结尾：It is high time that we took action.(标语).
+结尾：It is high time that (主角) took action.(标语).
 
 
 

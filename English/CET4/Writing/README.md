@@ -20,7 +20,7 @@
 
 ### ① 现象类（最常考）
 
-开头：Nowadays, … has become a common phenomenon. Different people hold different views on it.
+开头：Nowadays, … has become a common phenomenon. Different people hold different views on it. And(主题).
 
 主体：For one thing… For another…
 

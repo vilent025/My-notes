@@ -1,0 +1,70 @@
+#include<iostream>
+using namespace std;
+
+const int MAX = 100;
+int fact[MAX] = {0};
+int sum[MAX] = {0};
+
+//两个数组里每个内存存一位数
+/* 
+120
+a[0] = 3 ,这个数的位数
+a[1] = 0
+a[2] = 2
+a[3] = 1 
+*/
+void mul(int a[], int x){ //高精度乘法 
+	int carry = 0; //进位
+	for(int i = 1; i <= a[0]; i++){  //a[0]存这个数的位数 
+		int tmp = a[i] * x + carry ;// +carry 是加上上一位相乘的进位 
+		a[i] = tmp % 10; //tmp的个位，当作当前位的个位 
+		carry = tmp / 10; //给下一位的进位 
+	}
+	 
+	while(carry > 0){
+		a[0]++;  //上一个循环结束后还有进位，则这个数的位数要加1
+		a[a[0]] = carry % 10; //将进位的数存入这个数的最大位
+		carry = carry / 10; 
+	} 
+}
+
+void add(int sum[], int fact[]){
+	int carry = 0; //进位
+	int len = max(sum[0], fact[0]); //取更长的位数作为循环结束的条件 
+		
+	for(int i = 1;i <= len; i++){
+		int tmp = sum[i] + fact[i] + carry;
+		sum[i] = tmp % 10;
+		carry = tmp / 10;
+	} 
+	
+	sum[0] = len;
+	
+	if(carry > 0){
+		sum[0]++;
+		sum[sum[0]] = carry;
+	}
+
+	
+}
+
+int main()
+{
+	int n;
+	cin >> n;
+	
+	fact[0] = 1; fact[1] = 1;
+	sum[0] = 0;
+	
+	for(int i = 1; i <= n; i++){
+		mul(fact, i);
+		add(sum, fact);
+	}
+	
+	for(int i = sum[0]; i >= 1; i--){
+		cout << sum[i];
+	}
+	
+	
+	return 0;
+ } 

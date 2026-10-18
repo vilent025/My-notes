@@ -44,12 +44,12 @@
 
 ### 4.书信类
 
-开头：I am writing to apply for ____________.
+开头：I am writing to apply for ____________. (写信目的)
 
-主体第一段：For one thing, ____________.
+主体第一段：For one thing, ____________. (说明申请原因)
            For another, ____________.
 
-主体第二段：Besides, I am qualified for this activity. ____________. I can ____________.
+主体第二段：Besides, I am qualified for this activity. ____________. I can ____________. (介绍自身优势 / 可以做什么)
 
 结尾：I would appreciate it if you could consider my application. Looking forward to your reply.
 Yours sincerely,

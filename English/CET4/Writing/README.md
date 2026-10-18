@@ -42,5 +42,18 @@
 
 结尾：It is high time that (主角) took action.(标语).
 
+### 4.书信类
+
+开头：I am writing to apply for ____________.
+
+主体第一段：For one thing, ____________.
+           For another, ____________.
+
+主体第二段：Besides, I am qualified for this activity. ____________. I can ____________.
+
+结尾：I would appreciate it if you could consider my application. Looking forward to your reply.
+Yours sincerely,
+XXX
+
 
 

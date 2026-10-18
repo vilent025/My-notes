@@ -40,7 +40,7 @@
 
 主体：Several measures can be taken (by ~~) to (目的). First of all… Besides…
 
-结尾：It is high time that (主角) took action.(标语).
+结尾：It is high time that (主角) took action. (标语).
 
 ### 4.书信类
 

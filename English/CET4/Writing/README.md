@@ -46,8 +46,8 @@
 
 开头：I am writing to apply for ____________. (写信目的)
 
-主体第一段：For one thing, ____________. (说明申请原因)
-           For another, ____________.
+主体第一段：For one thing, ____________. 
+           For another, ____________.(说明申请原因)
 
 主体第二段：Besides, I am qualified for this activity. ____________. I can ____________. (介绍自身优势 / 可以做什么)
 

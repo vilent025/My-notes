@@ -56,13 +56,11 @@ Yours sincerely,
 XXX
 
 
-###5.重要性模板(讲某件事物的好处、重要性)
-开头：It is widely acknowledged that … exert a profound influence on … . (阐述主题).
+### 5.名言阐释 / 重要性类模板(讲某件事物的好处、重要性)
+开头：It is widely acknowledged that ______ exert a profound influence on ______.
 
-主体：For one thing…  For another…
+主体：For one thing, ______.For another, ______.
 
-结尾：From my perspective… Only in this way can we…… .
-
-
+结尾：From my perspective, we should ______. Only in this way can we ______.
 
 

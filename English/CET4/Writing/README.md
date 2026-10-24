@@ -57,7 +57,7 @@ XXX
 
 
 ### 5.名言阐释 / 重要性类模板(讲某件事物的好处、重要性)
-开头：It is widely acknowledged that ______ exert a profound influence on ______.
+开头：It is widely acknowledged that ______ exert a profound influence on ______. (再阐明主题)
 
 主体：For one thing, ______.For another, ______.
 
